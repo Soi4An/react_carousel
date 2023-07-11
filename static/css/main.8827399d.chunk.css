@@ -1,0 +1,2 @@
+.App{align-items:center}.App,.Carousel{display:flex;flex-direction:column}.Carousel{overflow:hidden}.Carousel__container{width:-webkit-max-content;width:max-content;transition:-webkit-transform .5s linear;transition:transform .5s linear;transition:transform .5s linear,-webkit-transform .5s linear}.Carousel__list{display:flex;padding:0;margin:0;overflow:hidden;list-style:none}.Carousel__list-item{display:flex}.button__container{display:flex;justify-content:space-between;width:100px;margin:0 auto}
+/*# sourceMappingURL=main.8827399d.chunk.css.map */
